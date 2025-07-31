@@ -1,0 +1,122 @@
+VideoID,ParticipantID,FileName,Duration (s),Text,Emotion,Sentiment
+100001,100001,emotion 1 - neutral - audio,7,"Шәке, кешіріңізші енді. Кішкене қол тимей кетті. Күйеу балам дайын негізі. Ол уже халықтың қамын ойлап жүр.",neutral,neutral
+100002,100002,emotion 2 - surprise - audio,7,Үй алып беремін?,surprise,positive
+100003,100002,emotion 3 - joy - audio,6,"Рақмет аға. Бірақ, бар ғой, Құдайдың өзі жіберген сізді маған.",joy,positive
+100004,100003,emotion 4 - anger - audio,3,"Сенің басың жасай ма? Немене бүлдіріп жүресің, ей?",anger,negative
+100005,100004,emotion 5 - disgust - audio,2,Аттың иісі шығып кетті ғой мына жерде.,disgust,negative
+100006,100005,emotion 6 - neutral (neg) - audio,7,"Жалғыз өзінің шамасы жетпеген соң, екеулеп жабылайын деп екен ғой",neutral,negative
+100007,100005,emotion 7 - surprise - audio,4,Ойбай. Менімен ақылдасайын деп пе ең?,surprise,negative
+100008,100006,emotion 8 - surprise - audio,3,Мынаған не болған?,surprise,negative
+100009,100001,emotion 9 - joy - audio,6,"Әй, жаман бала. Міне енді түсіндің!",joy,positive
+100010,100010,emotion 10 - sadness - audio,7,"Кешіріңіз, бірақ маған толық айлықты бере аласыз ба? Әйтпесе квартирадан шығарып жібереді.",sadness,negative
+100011,100007,emotion 11 - audio,4,"Менің ойымша,алдағы уақытта ақын да, композитор да, ешкім керек емес.",neutral,neutral
+100012,100008,emotion 12 - audio,10,"Кимононы саған подаркы жасайды. Ұнап жатса киесің жарысқа, ұнамаса досым ретінде саған, тренировакаға, бірдеңеге киіп  тастайсың ертең.",neutral,neutral
+100013,100009,emotion 13 - audio,4,Өзіңде осы жеңістен кейін жұлдыз ауруы болды ма?,neutral,neutral
+100014,100008,emotion 14 - audio,8,"Ол кезде андай бір алманы футболканың ішіне салып аламыз да, садқа кіріп кеткенбіз ғой. Көк алма ұрлап жүретінбіз сол кезде!",joy,positive
+100015,100007,emotion 15 - audio,8,"Жалпы тағы бір ақпарат бар екен, мектепте кезінде диктанттан бір деген баға алыпсыз.",neutral,neutral
+100016,100011,emotion 16 - disgust - audio,3,Анау сасық аға.,disgust,negative
+100017,100012,emotion 17 - anger (?) - audio,8,"Не өзіңді дофига умный санайсың ба? Келіп алады ауылдан, необразованный, жұмыс іздеп.",disgust,negative
+100018,100010,emotion 18 - fear - no text - audio,5,,fear,negative
+100019,100013,emotion 19 - anger - audio,2,"И вообще, неге мен іздеуім керек няняны?",anger,negative
+100020,100014,emotion 20 - neutral neg (?) - audio,3,Давай жылдамдат сен тезірек. Давай тезірет.,neutral,negative
+100021,100013,emotion 21 - disgust (?) - audio,4,"Уф, кетті. Онда мен де кеттім.",disgust,negative
+100021,100015,emotion 22 - neutral neg (?) - audio,6,"Өйстіп жүргенде жұмыстан шығарып жібермесін, байқа.",neutral,neutral
+100022,100010,emotion 23 - sadness+anger (?) - audio,7,,sadness,negative
+100024,100013,emotion 24 - surprise - no text - audio,2,,surprise,negative
+100025,100010,emotion 25 - audio,8,Үйдің иесі есіктің кілтін ауыстырып жіберген ғой,neutral,neutral
+100026,100013,emotion 26 - audio,4,А че күйеуің көмектеспейді? Все таки балаңның әкесі емес пе.,anger,negative
+100027,100013,emotion 27 - audio,4,"Онда ажырас. Е, төрт ай болды ғой кеткеніңнен.",anger,negative
+100028,100010,emotion 28 - audio,4,"Неге, жұмысың жақсы ғой сенің. Еще зарплатасы да күшті.",neutral,neutral
+100029,100013,emotion 29 - anger - audio,3,Бастық надоел уже. Постоянно соның жұмыстарымен бар ғой.,anger,negative
+100030,100010,emotion 30 - surprise - audio,3,Қуасың ба?,surprise,positive
+100031,100010,emotion 31 - surprise (?) - no text - audio,7,,surprise,neutral
+100032,100010,emotion 32 - neutral (?) - no text - audio,7,,neutral,neutral
+100033,100010,emotion 33 - neutral - no text - audio,4,,neutral,neutral
+100034,100010,emotion 34 - neutral - no text - audio,4,,neutral,neutral
+100035,100016,emotion 35 - sadness (?) - no text - audio,4,,sadness,negative
+100036,100010,emotion 36 - neutral - audio,7,Сәлем. Бұл сенің ойыншығың ба?,neutral,neutral
+100037,100016,emotion 37 - anger - audio,3,Бұлай тұр дедім ғой енді.,anger,negative
+100038,100016,emotion 38 - joy - no text - audio,1,,joy,positive
+100039,100016,emotion 39 - joy - no text - audio,2,,joy,positive
+100040,100017,emotion 40 - neutral (pos) - no text - audio,3,,neutral,positive
+100041,100010,emotion 41 - neutral - no text - audio,5,,neutral,neutral
+100042,100010,emotion 42 - joy - audio,4,Алды!,joy,positive
+100043,100013,emotion 43 - surprise + joy - audio,3,Енді қарызымды бересің ғой?,joy,positive
+100044,100010,emotion 44 - sadness - no text - audio,9,,sadness,negative
+100045,100018,emotion 45 - anger (?) - audio,3,Үйге бала әкелуге болмайтынын білесің ғой!,anger,negative
+100046,100011,emotion 46 - neutral - audio,2,Тыныш отырамын.,neutral,negative
+100047,100018,emotion 47 - neutral (neg?) - audio,5,"Тек бір күнге ғана. Сәуле Рахатовна еститін болса, сені жұмыстан шығарып жібереді.",neutral,negative
+100048,100018,emotion 48 - neutral - audio,2,"Біздің қыздар, Малика, Сания.",neutral,neutral
+100049,100019,emotion 49 - neutral (pos?) - audio,2,"Жанар, сенің полкаң төменде болады.",neutral,positive
+100050,100018,emotion 50 - neutral - audio,2,Бұл үйдің өз тәртібі бар.,neutral,neutral
+100051,100018,emotion 51 - neutral - audio,5,Кешке аласыз. Ерте алуға болмайды.,neutral,neutral
+100052,100018,emotion 52 - neutral - audio,5,Бірінші ай агентствоға төлемейміз. Келісімшартқа да отырмаймыз. Соны айтып барасыз.,neutral,neutral
+100053,100018,emotion 53 - neutral - audio,13,Мына қыздар жинамай кетіпті. Бұл айда босқа төрт агентствоға ақша төледік. Келген күтушілердің барлығы бір аптадан артық шыдамай кетіп қалды. Сізде бір ай сынақ мерзімі.,neutral,neutral
+100054,100018,emotion 54 - neutral - audio,7,"Жұмыс уақытың жеті жарымға дейін. Егер де Сәуле Рахматова мен Марат Нургалиевич бір жаққа баратын болса, ұзағырақ қаласың.",neutral,neutral
+100055,100018,emotion 55 - neutral - audio,5,Сіз екі сағат бойы серуендеуге апаруыңыз керек. Оның өзінің ас мәзірі бар.,neutral,neutral
+100056,100010,emotion 56 - neutral - audio,2,"Иә иә, түсіндім.",neutral,neutral
+100057,100018,emotion 57 - audio,3,"Димаш, міне сенің жаңа няняң.",neutral,positive
+100058,100016,emotion 58 - audio,3,Шық менің бөлмемнен.,anger,negative
+100059,100010,emotion 59 - audio,4,Бөлмең әдемі екен.,neutral,positive
+100060,100016,emotion 60 - audio,2,Болды мен ойнамаймын!,anger,negative
+100061,100010,emotion 61 - audio,8,Жақсы. Онда мен өзім онаймын.,neutral,neutral
+100062,100010,emotion 62 - audio,8,Шын ба? Онда кел бірге жасайық. Жасайсың ба?,neutral,positive
+100063,100011,emotion 63 - audio,2,Менің ішім пысып кетті.,sadness,negative
+100064,100011,emotion 64 - audio,2,Вау.,surprise,positive
+100065,100016,emotion 65 - audio,3,"Иә, оны қайдан білесің?",neutral,neutral
+100066,100017,emotion 66 - audio,2,Жанар істеп берді ма?,neutral,neutral
+100067,100016,emotion 67 - audio,4,"Иә, жақсы. ",neutral,positive
+100068,100010,emotion 68 - audio,3,"Кешіріңіз, не үшін? Бірнәрсе болып қалды ма?",neutral,neutral
+100069,100018,emotion 69 - audio,3,Сенің жұмысыңды ұнатқаннан хабарластық.,neutral,neutral
+100070,100020,emotion 70 - audio,3,"О, Жанар, сәлем.",neutral,positive
+100071,100013,emotion 71 - audio,4,Ол өте жақсы няня. Оған дейін екі семьяда жұмыс жасаған.,neutral,positive
+100072,100020,emotion 72 - audio,3,Менің күйеуім бар ғой. Ол қарайды.,neutral,neutral
+100073,100013,emotion 73 - audio,5,Сіздер уайымдамаңыздар. Ол жағынан біздің қыздарда ешқандай проблема жоқ.,neutral,neutral
+100074,100013,emotion 74 - audio,3,Ақша түсті!,surprise,positive
+100075,100010,emotion 75 - audio,2,Ойлағаннан да оңай болып шықты ғой.,joy,positive
+100076,100010,emotion 76 - audio,2,Қалай?,surprise,neutral
+100077,100013,emotion 77 - audio,5,"Ну примерно алайық, да? Нянялардың табысы екі жүз - үш жүз елу мың.",neutral,neutral
+100078,100010,emotion 78 - audio,9,"Просто, бір рет қолымыздан келгеннен кейін, солай екінші рет болады деп ойлайсың ба? Просто ойланшы, документ жасату керек.",neutral,neutral
+100079,100010,emotion 79 - no text - audio,4,,joy,positive
+100080,100022,emotion 80 - audio,5,Мына Алматыға көшіп келгелі осы. Бір нормальный үйде тұрған жоқпыз.,anger,negative
+100081,100022,emotion 81 - audio,5,Сен ғой мамалары. Неме жұмыс жұмыс деп қалғансың? Мына кішкене балаларға да қарау керек шығар.,anger,negative
+100082,100023,emotion 82 - audio,2,Бүгін жұмысқа кешігіп келдің. Кеше мүлдем шықпай қойдың.,anger,negative
+100083,100021,emotion 83 - audio,5,Үй іздеп жүріп қалдым. Кеше түнімен көшкенбіз ғой. Ұйықтап қалыппын.,neutral,neutral
+100084,100023,emotion 84 - audio,3,Ұйықтап жүре бер сөйтіп. Ақшаңды бермей қоямын мен сенің.,neutral,negative
+100085,100023,emotion 85 - audio,6,"Не дедің? Ей. Саған ерегескенде, дым алмайсың осыдан.",anger,negative
+100086,100022,emotion 86 - audio,7,Мен мына інілерімді мектепке алып келіп едім. Кеше сізге мамам ескертіп қойған. Ашимова Шынардың балалары.,neutral,neutral
+100087,100021,emotion 87 - audio,3,Айтатындай ештеңесі жоқ. Ескі үй ғой.,neutral,neutral
+100088,100021,emotion 88 - audio,3,Жағдайдың жеткені сол болды.,neutral,neutral
+100089,100022,emotion 89 - audio,6,Оны білмеймін. Алатын шығар. Енді ол жағын өзіңіз мамадан сұрап жатарсыз. Мен кішкене асығып тұр едім.,neutral,neutral
+100090,100024,emotion 90 - audio,2,Осыны ертерек тазалап қойса болмай ма?,neutral,negative
+100091,100024,emotion 91 - audio,3,Мынау кім? Мұнда қыз жоқ еді ғой бізде.,surprise,neutral
+100092,100024,emotion 92 - audio,4,Причем тут рұқсаты бар. Он сегізге толмаған ғой. ,neutral,neutral
+100093,100021,emotion 93 - no text - audio,5,,fear,neutral
+100094,100028,emotion 94 - audio,4,"Алдын ала келсең, ештеңе де болмас еді.",neutral,neutral
+100095,100022,emotion 95 - audio,6,Оқу бар төлейтін. Кредиттер бар. Мен басқа жұмыс істесем оларды төлей алмаймын ғой.,sadness,negative
+100096,100025,emotion 96 - audio,9,"Короче, Водостройда қалай екенін білмеймін. Біздің мектепте система бұлай. Мен сегіздердің үстінен қараймын, маған тиын әкеліп отырасың.",neutral,negative
+100097,100026,emotion 97 - audio,4,За то ешқай жерім ауырмайды. Көзім көгермейді. Хе.,joy,positive
+100098,100021,emotion 98 - audio,3,"Жоқ, біз Қытайдан келгенбіз ғой.",neutral,neutral
+100099,100021,emotion 99 - audio,7,Қандай рак? Маған ауруға болмайды. Менің бала-шағамды кім асырайды сонда?,surprise,negative
+100100,100021,emotion 100 - audio,10,Маған көрсеткен қорлығың ба бұл? Мен сонша не істеп қойдым?,sadness,negative
+100101,100027,emotion 101 - audio,7,Сіздің үш-ақ ай өміріңіз қалыпты ғой. Сондықтан балаларыңызды жетімдер үйіне алып кетуге келдім.,neutral,neutral
+100102,100030,emotion 102,10,"Ей нормально сөйлес менімен! Мен сенімен нормально сөйлесіп тұрмын ғой! А? Сендер мені ақымақ қылып тұрсыңдар ма? Либо ертең қоясыңдар, либо. Але?",anger,negative
+100103,100018,emotion 103,10,Сәлеметсіздер ме. Мен Сәуле Рахатовнаның көмекшісімін. Компанияларыңыздан срочно біреу келу керек. Сіздердің няняларыңыз баланың тамағына бірдеңе қосып жіберіпті.,neutral,negative
+100104,100013,emotion 104,3,Қалай? Бұл мүмкін емес.,surprise,neutral
+100105,100010,emotion 105,9,"Алло, Нұргүл, түсіндіріп жататын уақытым жоқ, пожалуйста, Ілиясты мектептен алып келші. Өзі жалғыз қалып қалды. Мына жақта, мына жақты өзім шешемін.",neutral,neutral
+100106,100010,emotion 106,8,"Алло, не? Қалай жоқ?",surprise,negative
+100107,100010,emotion 107,8,"Алло! Ілияс қайда? Уф, неге алмайсыз телефонды?",surprise,neutral
+100108,100010,emotion 108,10,"Иә, иә, білемін жетіге дейін. Бірақ өтінемін, қандай жағдай болмасын, өтінемін, күйеуіме хабарласпаңызшы. Сіз білесіз ғой бірге тұмайтынымызды?",sadness,negative
+100109,100029,emotion 109,0,Қайда бара жатсың деймін?!,anger,negative
+100110,100010,emotion 110,2,Не істеп жүрсің?,surprise,negative
+100111,100010,emotion 111,4,Алып кеткеніңе рақмет. Мен жұмыстармен жүріп қаалдым. Негізі үлгеріп жүретінмін.,fear,negative
+100112,100029,emotion 112,5,"Жанар, осы демалыста ойлағанмын ғой, Ілиясты ауылға алып кетсем.",neutral,neutral
+100113,100010,emotion 113,2,Жоқ.,fear,negative
+100114,100030,emotion 114,4,"Жұмыс істеуге келдің ба сен, жоқ па? Жауап бер.",anger,negative
+100115,100030,emotion 115,1,"Е, үніңді аш, ей!",anger,negative
+100116,100030,emotion 116,2,Маған сөз қайтарушы болма. Түсіндің ба сен?,anger,negative
+100117,100030,emotion 117,1,Түсіндің ба сен мені?,anger,negative
+100118,100010,emotion 118,6,Алып кеткендеріңе рақмет. Қатты қорқып кетіп едім.,neutral,neutral
+100119,100013,emotion 119,6,Не болып кетті өзі вообще. Бізге точно көз тиіп кетті.,neutral,negative
+100120,100010,emotion 120,8,Айманға агенстводан деп бекер айттық. Представь біздің орнымызға басқа бір няняны жіберсе. Оның бытшытын шығарушы еді.,sadness,negative
+100021,100015,emotion 121,2,Бәрі оңай болады деп па?,neutral,neutral
